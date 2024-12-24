@@ -1,0 +1,41 @@
+Dificuldade|Pergunta|Opção A|Opção B|Opção C|Opção D|Resposta Certa
+1| Quais os principais heterónimos de Fernando Pessoa?|Alberto Caeeiro, Ricardo Reis, Álvaro de Campos|Alberto Caeiro, Ricardo Leite e Augusto de Campos|Bento Teixeira, Ricardo Reis e Haroldo de Campos|Ariano Suassuna, Raul Bopp e Quincas Borba|A;
+1|Qual é o maior oceano?|Atlântico|Pacifíco|Índico|Ártico|B
+1|Quem descobriu o brasil?|Pedro Álvares Cabral|Cristóvão Colombo|Vasco da Gama|Dom Pedro I|A
+1|Quantos lados tem um quadrado?|3|4|5|6|B
+1|Em que continente fica o Egito?|África|Ásia|América|Europa|A
+1|Quem pintou a Mona Lisa?|Picasso|Leonardo da Vinci|Michelangelo|Van Gogh|B
+1|Qual é a abreviação de "quilograma"?|Kg|Km|Kl|Kg.|A
+1|Qual é o nome do planeta vermelho?|Terra|Marte|Vênus|Júpiter|B
+1|Qual animal é conhecido como o "Rei da Selva"?|Leão|Tigre|Elefante|Pantera|A
+
+2|Quem escreveu "Dom Quixote"?|Cervantes|Shakespeare|Machado de Assis|Victor Hugo|A
+2|Quantos estados tem o Brasil?|25|26|27|28|C
+2|Qual é o maior país do mundo em área?|Canadá|Rússia|China|Estados Unidos|B
+2|Em que ano começou a Segunda Guerra Mundial?|1935|1939|1941|1945|B
+2|Quem inventou a lâmpada elétrica?|Edison|Tesla|Bell|Newton|A
+2|Qual é o elemento químico com símbolo "Au"?|Alumínio|Ouro|Prata|Cobre|B
+2|Qual é o nome do rio mais longo do mundo?|Nilo|Amazonas|Yangtzé|Mississipi|B
+2|Qual é o maior mamífero do mundo?|Elefante|Baleia Azul|Hipopótamo|Rinoceronte|B
+2|O que mede a escala Richter?|Temperatura|Força de Terremotos|Pressão|Velocidade|B
+2|Quem foi o primeiro homem a pisar na Lua?|Neil Armstrong|Buzz Aldrin|Yuri Gagarin|Alan Shepard|A
+2|Qual o dosporto que é conhecido como "o rei dos desportos"?|Tênis|Futebol|Basquete|Vôlei|B
+
+
+3|Qual é o número aproximado de estrelas na Via Láctea?|100 milhões|100 bilhões|1 bilhão|1 trilhão|B
+3|Quem foi o autor de "A Divina Comédia"?|Dante Alighieri|Goethe|Shakespeare|Homero|A
+3|Qual é o terceiro maior planeta do sistema solar?|Terra|Netuno|Urano|Saturno|C
+3|Qual a fórmula química do sal de cozinha?|NaCl|H2O|CO2|CaCO3|A
+3|Quem é conhecido como o "pai da computação"?|Alan Turing|Bill Gates|Steve Jobs|Charles Babbage|A
+3|Em que país fica o Monte Kilimanjaro?|África do Sul|Quênia|Tanzânia|Etiópia|C
+3|Qual a profundidade aproximada da Fossa das Marianas?|5 km|7 km|11 km|15 km|C
+3|Quantos ossos tem o corpo humano adulto?|204|206|208|210|B
+3|Qual é a capital da Islândia?|Oslo|Helsinque|Reykjavik|Copenhague|C
+3|Quem foi o primeiro presidente dos Estados Unidos?|Abraham Lincoln|George Washington|Thomas Jefferson|John Adams|B
+3|O que é "Entropia" na física?|Energia|Desordem|Velocidade|Pressão|B
+3|Qual é o elemento químico com símbolo "Hg"?|Hidrogênio|Hélio|Mercúrio|Magnésio|C
+3|Quem foi o primeiro humano a orbitar a Terra?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|John Glenn|A
+3|Qual é a montanha mais alta fora do Himalaia?|Monte Elbrus|Monte Aconcágua|Monte McKinley|Monte Kilimanjaro|B
+3|Qual é o nome do fenômeno atmosférico que causa luzes no céu polar?|Aurora Boreal|Eclipse|Estrela Cadente|Supernova|A
+
+
